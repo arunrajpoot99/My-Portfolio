@@ -29,7 +29,7 @@ The main objective of this project is to build a professional online presence wh
 
 Check out my portfolio:
 
-my-portfolio-pg98g5yeh-my-first-project5.vercel.app
+https://my-portfolio-pg98g5yeh-my-first-project5.vercel.app
 
 ## 👨‍💻 Developer
 
